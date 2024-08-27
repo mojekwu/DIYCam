@@ -25,7 +25,7 @@
     "file-base64": "^1.0.0",
     "google-locations": "^0.2.0",
     "google-oauth-jwt": "^0.2.0",
-    "http-errors": "~1.6.2",
+    "http-errors": "~1.8.1",
     "microsoft-computer-vision": "^0.4.2",
     "mongoose": "^5.4.7",
     "morgan": "~1.9.0",
